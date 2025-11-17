@@ -277,3 +277,4 @@ C:\Users\c8tsg\Desktop\BYUi\BYUi_2025\Block 06\CSE325 - .Net\wk2_movieActivity\M
 C:\Users\c8tsg\Desktop\BYUi\BYUi_2025\Block 06\CSE325 - .Net\wk2_movieActivity\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
 C:\Users\c8tsg\Desktop\BYUi\BYUi_2025\Block 06\CSE325 - .Net\wk2_movieActivity\MvcMovie\obj\Debug\net8.0\MvcMovie.genruntimeconfig.cache
 C:\Users\c8tsg\Desktop\BYUi\BYUi_2025\Block 06\CSE325 - .Net\wk2_movieActivity\MvcMovie\obj\Debug\net8.0\ref\MvcMovie.dll
+C:\Users\c8tsg\Desktop\BYUi\BYUi_2025\Block 06\CSE325 - .Net\wk2_movieActivity\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
